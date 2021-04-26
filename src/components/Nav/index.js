@@ -1,7 +1,7 @@
-import React, {useEffect} from 'react';
+import React, { useEffect } from 'react';
 
 function Nav(props) {
-    const{
+    const {
         categories = [],
         setCurrentCategory,
         currentCategory
@@ -13,16 +13,14 @@ function Nav(props) {
 
     return (
         <section>
-            
             <nav>
                 <ul>
                     {categories.map((category) => (
-                        <li>
+                        <li
                             className={` ${currentCategory.name === category.name && 'selectedCategory'}`}
-                            key={category.id} onClick = {() => {
+                            key={category.id} onClick={() => {
                                 setCurrentCategory(category);
-                            }}{category.name}
-                        </li>
+                            }}>{category.name}</li>
                     ))}
                 </ul>
             </nav>
