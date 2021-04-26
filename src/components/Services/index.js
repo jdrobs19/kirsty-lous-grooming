@@ -3,12 +3,12 @@ import React from 'react';
 function Services() {
     return (
         <section>
-            <div className="services-container">
-                <h2>Services</h2>
-                <div>
+            <div className="services-wrapper">
+                <h2 className="services-header">Services</h2>
+                <div className="services-container">
                     <div className="service">
                         <h3>Full Groom</h3>
-                        <h4>From $</h4><p className="cost">50</p>
+                        <h4>From $ <span className="cost">30</span></h4>
                         <ul>
                             <li>Nail Trimming</li>
                             <li>Pads & paw trim</li>
@@ -18,7 +18,7 @@ function Services() {
                     </div>
                     <div className="service">
                     <h3>Bath & Brush</h3>
-                        <h4>From $</h4><p className="cost">30</p>
+                        <h4>From $ <span className="cost">30</span></h4>
                         <ul>
                             <li>Bath</li>
                             <li>Brush</li>
@@ -28,7 +28,7 @@ function Services() {
                     </div>
                     <div className="service">
                     <h3>Mini Groom</h3>
-                        <h4>From $</h4><p className="cost">40</p>
+                    <h4>From $ <span className="cost">30</span></h4>
                         <ul>
                             <li>Nail Trimming</li>
                             <li>Pads & paw trim</li>
