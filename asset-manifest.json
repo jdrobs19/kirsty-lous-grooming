@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kirsty-lous-grooming/static/css/main.b42bcfca.chunk.css",
+    "main.js": "/kirsty-lous-grooming/static/js/main.3370ebeb.chunk.js",
+    "main.js.map": "/kirsty-lous-grooming/static/js/main.3370ebeb.chunk.js.map",
+    "runtime-main.js": "/kirsty-lous-grooming/static/js/runtime-main.5da1a6a1.js",
+    "runtime-main.js.map": "/kirsty-lous-grooming/static/js/runtime-main.5da1a6a1.js.map",
+    "static/js/2.c17066c5.chunk.js": "/kirsty-lous-grooming/static/js/2.c17066c5.chunk.js",
+    "static/js/2.c17066c5.chunk.js.map": "/kirsty-lous-grooming/static/js/2.c17066c5.chunk.js.map",
+    "static/js/3.97a886c6.chunk.js": "/kirsty-lous-grooming/static/js/3.97a886c6.chunk.js",
+    "static/js/3.97a886c6.chunk.js.map": "/kirsty-lous-grooming/static/js/3.97a886c6.chunk.js.map",
+    "index.html": "/kirsty-lous-grooming/index.html",
+    "static/css/main.b42bcfca.chunk.css.map": "/kirsty-lous-grooming/static/css/main.b42bcfca.chunk.css.map",
+    "static/js/2.c17066c5.chunk.js.LICENSE.txt": "/kirsty-lous-grooming/static/js/2.c17066c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5da1a6a1.js",
+    "static/js/2.c17066c5.chunk.js",
+    "static/css/main.b42bcfca.chunk.css",
+    "static/js/main.3370ebeb.chunk.js"
+  ]
+}
