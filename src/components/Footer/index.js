@@ -5,6 +5,7 @@ function Footer() {
 
     return (
         <footer>
+            <p>Follow us on Facebook and instagram!</p>
             <a href="https://www.facebook.com/kirstylous" target="_blank" rel="noopener noreferrer"><FaFacebookF/></a>
             <a href="https://www.instagram.com/kirstylousdoggiedoos/?hl=en" target="_blank" rel="noopener noreferrer"><FaInstagram/></a>
         </footer>
