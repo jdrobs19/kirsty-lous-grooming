@@ -1,15 +1,26 @@
-import React from 'react';
+import React from "react";
+import Gallery from "../partials/Gallery";
 
 function About() {
     return (
-        <section>
-            <h2 id="about">We care for your dog as much as you</h2>
-            <div>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum turpis sed ex condimentum molestie. Mauris condimentum lectus ut ornare dignissim. Mauris faucibus urna mi, ac feugiat metus aliquam maximus. Proin aliquam justo nec diam vulputate vestibulum. Aenean sollicitudin nulla at nisi ornare, nec suscipit massa eleifend. Morbi tristique justo vel turpis sollicitudin, et tristique velit convallis. In hac habitasse platea dictumst. Phasellus mattis nunc sed orci consequat laoreet. Praesent id nisl nibh. Curabitur imperdiet ultricies mollis. In hac habitasse platea dictumst.
-                </p>
-            </div>
-        </section>
+        <div>
+            <section>
+                <h2 id="about">Dog Groomer Promise</h2>
+                <div>
+                    <p>
+                        I will love your dog. I will care for your dog. I will be patient and kind. I will do what is best for your pet. NO MATTER WHAT! 
+                        I will stand by the fact of comfort must come before vanity.
+                    </p>
+                </div>
+            </section>
+            <section>
+                <Gallery />
+            </section>
+            <section>
+                <p>Hours of operation:</p>
+                <p>Monday - Friday 9 AM - 5 PM, by appointment only</p>
+            </section>
+        </div>
     )
 }
 
