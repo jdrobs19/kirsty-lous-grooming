@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/kirsty-lous-grooming/static/css/main.6866a2ee.chunk.css",
-    "main.js": "/kirsty-lous-grooming/static/js/main.46d6c1a5.chunk.js",
-    "main.js.map": "/kirsty-lous-grooming/static/js/main.46d6c1a5.chunk.js.map",
+    "main.css": "/kirsty-lous-grooming/static/css/main.cab38229.chunk.css",
+    "main.js": "/kirsty-lous-grooming/static/js/main.a538c03a.chunk.js",
+    "main.js.map": "/kirsty-lous-grooming/static/js/main.a538c03a.chunk.js.map",
     "runtime-main.js": "/kirsty-lous-grooming/static/js/runtime-main.237ba4d3.js",
     "runtime-main.js.map": "/kirsty-lous-grooming/static/js/runtime-main.237ba4d3.js.map",
     "static/css/2.ab18fb39.chunk.css": "/kirsty-lous-grooming/static/css/2.ab18fb39.chunk.css",
@@ -12,8 +12,9 @@
     "static/js/3.249e660f.chunk.js.map": "/kirsty-lous-grooming/static/js/3.249e660f.chunk.js.map",
     "index.html": "/kirsty-lous-grooming/index.html",
     "static/css/2.ab18fb39.chunk.css.map": "/kirsty-lous-grooming/static/css/2.ab18fb39.chunk.css.map",
-    "static/css/main.6866a2ee.chunk.css.map": "/kirsty-lous-grooming/static/css/main.6866a2ee.chunk.css.map",
+    "static/css/main.cab38229.chunk.css.map": "/kirsty-lous-grooming/static/css/main.cab38229.chunk.css.map",
     "static/js/2.8653f2f2.chunk.js.LICENSE.txt": "/kirsty-lous-grooming/static/js/2.8653f2f2.chunk.js.LICENSE.txt",
+    "static/media/KirstyLousLogo.87aa497e.png": "/kirsty-lous-grooming/static/media/KirstyLousLogo.87aa497e.png",
     "static/media/dog-1.818d8c10.jpg": "/kirsty-lous-grooming/static/media/dog-1.818d8c10.jpg",
     "static/media/dog-2.b11fa948.jpg": "/kirsty-lous-grooming/static/media/dog-2.b11fa948.jpg",
     "static/media/dog-3.e3511826.jpg": "/kirsty-lous-grooming/static/media/dog-3.e3511826.jpg",
@@ -25,14 +26,13 @@
     "static/media/groomer1.518ea79e.jpg": "/kirsty-lous-grooming/static/media/groomer1.518ea79e.jpg",
     "static/media/groomer2.75644e84.jpg": "/kirsty-lous-grooming/static/media/groomer2.75644e84.jpg",
     "static/media/groomer3.bb9a4b7a.jpg": "/kirsty-lous-grooming/static/media/groomer3.bb9a4b7a.jpg",
-    "static/media/groomer4.e93ff3f7.jpg": "/kirsty-lous-grooming/static/media/groomer4.e93ff3f7.jpg",
-    "static/media/pngwing.com.4c6fedc2.png": "/kirsty-lous-grooming/static/media/pngwing.com.4c6fedc2.png"
+    "static/media/groomer4.e93ff3f7.jpg": "/kirsty-lous-grooming/static/media/groomer4.e93ff3f7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.237ba4d3.js",
     "static/css/2.ab18fb39.chunk.css",
     "static/js/2.8653f2f2.chunk.js",
-    "static/css/main.6866a2ee.chunk.css",
-    "static/js/main.46d6c1a5.chunk.js"
+    "static/css/main.cab38229.chunk.css",
+    "static/js/main.a538c03a.chunk.js"
   ]
 }
