@@ -46,8 +46,8 @@ function Services() {
                         </ul>
                     </div>
                 </div>
-                <div>
-                    <table className="service-table" style={{ width: '75%' }}>
+                <div className='table-container'>
+                    <table className="service-table" style={{ width: '100%' }}>
                         <tr>
                             <td></td>
                             <td>Service</td>

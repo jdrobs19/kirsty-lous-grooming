@@ -35,7 +35,7 @@ function App() {
     <div>
         <Header/>
         <Nav categories={categories} setCurrentCategory={setCurrentCategory} currentCategory={currentCategory}/>
-        <main>
+        <main className="main-window">
           {renderCategory()}
         </main>
         <Footer/>
