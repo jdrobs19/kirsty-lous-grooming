@@ -72,9 +72,18 @@ h2{
 }
 
 .iframe{
+  display: flex;
+  padding: 2.5vh;
   margin: auto;
-  padding: 1.5vh;
-  width: 50%;
+}
+
+iframe{
+  width: 30vw;
+  height: 30vw;
+}
+
+.map{
+  margin: auto;
 }
 
 Footer{
@@ -102,4 +111,29 @@ footer p{
   padding-bottom: 20px;
   width: 50%;
   text-align: center;
+}
+
+.galleryimg{
+  width: 350px;
+  height: 350px;
+  margin: 5px;
+}
+
+@media screen and (max-width: 980px){
+
+}
+
+@media screen and (max-width: 768px) {
+  
+}
+
+@media screen and (max-width: 575px){
+  .iframe{
+    display: block;
+  }
+
+  iframe{
+    width: auto;
+    height: auto;
+  }
 }

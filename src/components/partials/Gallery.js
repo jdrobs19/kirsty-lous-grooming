@@ -38,7 +38,7 @@ class Gallery extends Component {
             <div>
                 <div>
                     {images.map(image => (
-                        <img src={image} alt={'groomed dog'} onClick={() => this.setState({ 
+                        <img className='galleryimg' src={image} alt={'groomed dog'} onClick={() => this.setState({ 
                             photoIndex: images.indexOf(image), 
                             isOpen: true })} />
                     ))}
